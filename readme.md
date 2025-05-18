@@ -3,7 +3,7 @@
 A web-based implementation of the classic Simon memory game built with HTML, CSS, and jQuery.
 
 ## Link
-
+https://phoenix-610.github.io/Simon-Game-Challenge/
 
 ## Description
 
